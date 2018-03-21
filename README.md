@@ -1,25 +1,30 @@
 litecoinextreme integration/staging tree
 ================================
 
-http://www.litecoinextreme.org
+http://www.ltcextreme.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 litecoinextreme Developers
+Copyright (c) 2017-2018 litecoinextreme Developers
 
 What is litecoinextreme?
 ----------------
 
 litecoinextreme is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ -  2 minute block targets
+ -  Block halving 210000 blocks
+ -  26250000 total coins
+ -  RPC port 35332
+ -  P2P port 35331
+ -  Coinbase maturity 25 blocks
+ -  Target timespan 1440 minutes
+ -  Transaction confirmations 3 blocks
 
 The rest is the same as Bitcoin.
  - 50 coins per block
- - 2016 blocks to retarget difficulty
+ 
 
 For more information, as well as an immediately useable, binary version of
-the litecoinextreme client sofware, see http://www.litecoinextreme.org.
+the litecoinextreme client sofware, see http://www.ltcextreme.com.
 
 License
 -------
@@ -45,7 +50,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/litecoinextreme-project/litecoinextreme/tags) are created
+completely stable. [Tags](https://github.com/ltcextreme/tags) are created
 regularly to indicate new official, stable release versions of litecoinextreme.
 
 Testing
