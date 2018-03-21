@@ -18,6 +18,8 @@ litecoinextreme is a lite version of Bitcoin using scrypt as a proof-of-work alg
  -  Coinbase maturity 25 blocks
  -  Target timespan 1440 minutes
  -  Transaction confirmations 3 blocks
+ -  Seed Node1 : nodea.ltcextreme.com 
+ -  Seed Node2 : nodeb.ltcextreme.com
 
 The rest is the same as Bitcoin.
  - 50 coins per block
