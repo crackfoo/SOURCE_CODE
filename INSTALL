@@ -1,0 +1,9 @@
+Building litecoinextreme
+
+See doc/readme-qt.rst for instructions on building litecoinextreme-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of litecoinextreme.
+
+See doc/build-*.txt for instructions on building litecoinextremed,
+the intended-for-services, no-graphical-interface, reference
+implementation of litecoinextreme.
